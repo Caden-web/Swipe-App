@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application name -->
+    <string name="app_name">Swipe Video App</string>
+
+    <!-- Video information -->
+    <string name="video_id_format">Video ID: %1$s</string>
+
+    <!-- Video player accessibility -->
+    <string name="video_player">Video Player</string>
+    <string name="play_video">Play Video</string>
+
+    <!-- Playback error message -->
+    <string name="playback_error">Unable to play this video. Check your internet connection.</string>
+</resources>
